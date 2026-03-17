@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<h1>Conhecimentos</h1>
+<p>Linguagens: JavaScript, Python, Java, PHP, HTML e CSSl.</p>
+<p>Editores: Visual Code, PyCharm, Apache, Inteliji e Arduino IDE.</p>
 <!--
 **igor4022/igor4022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
