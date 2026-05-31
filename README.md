@@ -7,6 +7,8 @@
   <a href="https://github.com/ishandutta2007/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=igor4022&hide_title=true&show_icons=true&theme=dark&include_all_commits=true" alt="aryashah2k" /></picture></a>
   <a href="https://github.com/ishandutta2007/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=igor4022&hide_title=false&layout=compact&theme=dark&count_private=true" /></picture></a>
 </p>
+
+<img src="https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 <!--
 **igor4022/igor4022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
