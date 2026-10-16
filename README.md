@@ -1,6 +1,7 @@
 ## Hi there 👋
 <h1>Conhecimentos</h1>
-<p>Linguagens: JavaScript, Python, Java, PHP, HTML e CSS.</p>
+<p>Linguagens: JavaScript, Python, Java, MySQl, PHP, HTML e CSS.</p>
+<p>Bibliotecas: Spring Boot, React e Node.JS;
 <p>Editores: Visual Code, PyCharm, Apache, Inteliji e Arduino IDE.</p>
 
 <p align="center">
